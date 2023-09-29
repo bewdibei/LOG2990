@@ -1,0 +1,66 @@
+{
+    "games": [
+        {
+            "name": "dsgdfgsdfg",
+            "description": "444",
+            "time": 20,
+            "questions": [
+                {
+                    "name": "sadfasfsdfafsdaf",
+                    "nPoints": 40,
+                    "choices": [
+                        { "name": "dvassdfadf", "state": false },
+                        { "name": "safsdfaf", "state": true }
+                    ]
+                },
+                {
+                    "name": "asfsagadgadfgdafg",
+                    "nPoints": 10,
+                    "choices": [
+                        { "name": "879754", "state": true },
+                        { "name": "95", "state": false }
+                    ]
+                }
+            ],
+            "id": "",
+            "lastModification": "28/09/2023 23:23",
+            "visible": false
+        },
+        {
+            "name": "testxporter",
+            "description": "juste pour voir qu'est ce qui manque dans le format",
+            "time": 60,
+            "questions": [
+                {
+                    "name": "test78",
+                    "nPoints": 40,
+                    "choices": [
+                        { "name": "r1", "state": false },
+                        { "name": "r2", "state": true }
+                    ]
+                }
+            ],
+            "id": "",
+            "lastModification": "28/09/2023 23:59",
+            "visible": false
+        },
+        {
+            "name": "testimporter",
+            "description": "juste pour voir qu'est ce qui manque dans le format",
+            "time": 40,
+            "questions": [
+                {
+                    "name": "test78",
+                    "nPoints": 40,
+                    "choices": [
+                        { "name": "r1", "state": false },
+                        { "name": "r2", "state": true }
+                    ]
+                }
+            ],
+            "id": "",
+            "lastModification": "28/09/2023 23:59",
+            "visible": true
+        }
+    ]
+}
